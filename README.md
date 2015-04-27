@@ -1,15 +1,15 @@
-[DEPRECATED] SublimeText TypeScript Bundle
-==========================================
+# SublimeText TypeScript 
 
-**Use Microsoft's official plugin instead!**
-> https://github.com/Microsoft/TypeScript-Sublime-Plugin
+### TS Language Only, by ericclemmons
 
-- - -
+Install this package if you want TS language support only:
 
-I created this repository so `TypeScript.tmLanguage` could be easily installed via [Package Control][2]:
+- Package Control: Add Repository"
+- `https://github.com/laktak/sublime-typescript`
+- Package Control: Install Package
+- Install `sublime-typescript`
 
-See the [originating code & blog post][1].
 
+This is faster than the MS plugin and fits better with my workflow. 
 
-[1]: http://blogs.msdn.com/b/interoperability/archive/2012/10/01/sublime-text-vi-emacs-typescript-enabled.aspx
-[2]: http://wbond.net/sublime_packages/package_control
+Microsofts full plugin is here: https://github.com/Microsoft/TypeScript-Sublime-Plugin
